@@ -9,7 +9,7 @@ redirect_from:
 
 About Me
 =====
-I'm Yudong Wang, in Chinese 王昱栋, a Ph.D. student at Peking University. I'm supervised by Prof. Zhifang Sui. Previously, I obtained my bachelor's degree from School of Mathematical Sciences and Yingcai Honors College of University of Electronic Science and Technology of China, supervised by Prof. [Liang-Jian Deng](https://liangjiandeng.github.io/).
+I'm Yudong Wang, in Chinese 王昱栋, a Ph.D. student at Peking University. I'm supervised by Prof. [Zhifang Sui](https://cs.pku.edu.cn/info/1237/2101.htm). Previously, I obtained my bachelor's degree from School of Mathematical Sciences and Yingcai Honors College of University of Electronic Science and Technology of China, supervised by Prof. [Liang-Jian Deng](https://liangjiandeng.github.io/).
 
 My research interests primarily revolve around language models and machine learning, focusing on the following three key aspects:
 
